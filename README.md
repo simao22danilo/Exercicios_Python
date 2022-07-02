@@ -1,2 +1,2 @@
 # Exercicios_Python
-Exercicios Python
+Exercicios Python para aprimorar os conhecimentos
